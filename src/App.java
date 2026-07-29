@@ -1,9 +1,14 @@
 import LabWorks.DisplayInfo;
 import LabWorks.Divisor;
+import LabWorks.LeapYear;
+import LabWorks.Loop;
 import LabWorks.Mul_Table;
 import LabWorks.Number;
 import LabWorks.OddEven;
+import LabWorks.Pattern1;
+import LabWorks.Pattern2;
 import LabWorks.Prime_Number;
+import LabWorks.RandomNumber;
 
  
 public class App { 
@@ -32,6 +37,26 @@ public class App {
         System.out.println("determines an integer is odd or even"); 
         OddEven ob5= new OddEven(); 
         ob5.checkNum(); 
+
+        System.out.println(); 
+        RandomNumber ob6= new RandomNumber(); 
+        ob6.checkNum();
+
+        System.out.println(); 
+        Pattern2 ob7= new Pattern2(); 
+        ob7.pattern(); 
+
+        System.out.println(); 
+        Pattern1 ob8= new Pattern1(); 
+        ob8.patternProb();
+
+        System.out.println(); 
+        LeapYear ob9= new LeapYear(); 
+        ob9.checkYear(); 
+
+        System.out.println();
+        Loop obj= new Loop(); 
+        obj.divisor(); 
  
     } 
 }

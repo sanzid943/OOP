@@ -1,6 +1,6 @@
 package LabWorks;
 
-public class Pattern {
+public class Pattern2 {
      public void pattern(){ 
          
         System.out.println(); 
