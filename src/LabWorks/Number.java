@@ -1,6 +1,6 @@
-// Write a program that prints from 1 to 10.
+// WriteLabWorksrogram that prints from 1 to 10.
 
-package Lab1;
+package LabWorks;
 
 public class Number {
      public void printNum(){ 

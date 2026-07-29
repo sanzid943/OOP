@@ -1,8 +1,8 @@
 // Write a program that prints your name, age and department in console.
 
-package Lab1;
+package LabWorks;
 
-public class Display {
+public class DisplayInfo {
     String n= "Sanzid Mostofa"; 
     int a= 20; 
     String dept= "Institute of Information Technology"; 

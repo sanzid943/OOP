@@ -1,7 +1,7 @@
  /*  Write a program that takes an integer and determines if it’s prime or not. A number is 
 prime if it is divisible by 1 and itself only, i.e. 2, 3, 11, 37 etc. */
 
-package Lab1;
+package LabWorks;
 
 import java.util.Scanner;
 

@@ -1,7 +1,7 @@
 /* Write a program that takes an integer and determines if it’s odd or even. Use switch cases 
 to produce result. */
 
-package Lab1;
+package LabWorks;
 
 import java.util.Scanner;
 

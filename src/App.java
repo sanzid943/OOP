@@ -1,16 +1,16 @@
-import Lab1.Display; 
-import Lab1.Number; 
-import Lab1.OddEven;
-import Lab1.Divisor;
-import Lab1.Mul_Table;
-import Lab1.Prime_Number;
+import LabWorks.DisplayInfo;
+import LabWorks.Divisor;
+import LabWorks.Mul_Table;
+import LabWorks.Number;
+import LabWorks.OddEven;
+import LabWorks.Prime_Number;
 
  
 public class App { 
     public static void main(String[] args)  { 
          
        System.out.println("printing name, age and department"); 
-        Display ob= new Display(); 
+        DisplayInfo ob= new DisplayInfo(); 
         ob.info(); 
  
         System.out.println(); 

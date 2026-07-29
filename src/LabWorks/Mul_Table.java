@@ -1,6 +1,6 @@
 // Write a program that prints the multiplication table of an integer. 
 
-package Lab1;
+package LabWorks;
 
 import java.util.Scanner;
 
