@@ -1,3 +1,5 @@
+//  Print the pattern.
+
 package LabWorks;
 
 public class Pattern1 {

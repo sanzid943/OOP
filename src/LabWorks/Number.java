@@ -1,4 +1,4 @@
-// WriteLabWorksrogram that prints from 1 to 10.
+// Write a Program that prints from 1 to 10.
 
 package LabWorks;
 

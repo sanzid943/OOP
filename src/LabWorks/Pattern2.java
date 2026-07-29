@@ -1,10 +1,12 @@
+//  Print the pattern.
+
 package LabWorks;
 
 public class Pattern2 {
      public void pattern(){ 
          
         System.out.println(); 
-        System.out.println("pattern:"); 
+        System.out.println("display pattern:"); 
  
         for(int i=5;i>=1;i--) 
         { 
